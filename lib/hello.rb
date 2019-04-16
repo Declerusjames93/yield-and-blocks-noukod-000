@@ -4,4 +4,5 @@ array.each do |name|
     puts "Hi, #{name}"
   end
 end
+end
 # call your method here!
